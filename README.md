@@ -6,14 +6,6 @@
 
 ## Hi there 👋
 
-## 👨‍💻 About Me
-
-A data-driven problem solver with a passion for impactful innovation. I combine analytical thinking, clean execution, and purpose-driven mindset to deliver meaningful solutions. Focused, adaptable, and committed to continuous learning.
-
-<h1 align="center">✨ Sadat Mahmud ✨</h1>
-<p align="center"><em>Data Science • AI • Consultancy • Sustainable Innovation</em></p>
-
----
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
